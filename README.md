@@ -32,3 +32,13 @@ Nobody is really sure, though.
 
 Maybe more will be uncovered soon?
 
+## Installation & Usage
+
+You can simply install the interpreter via `cargo`:
+
+```rust
+cargo install hohoho
+```
+
+Run `hohoho --help` for available command line options.
+
